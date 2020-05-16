@@ -1,9 +1,9 @@
 ## latihanbaru2
 
-'''kotlin
+```kotlin
 
 fun main(){
   println("Latihan")
 }
 
-'''
+```
