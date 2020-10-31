@@ -3,7 +3,9 @@
 ```kotlin
 
 fun main(){
+
   println("Latihan")
+  
 }
 
 ```
